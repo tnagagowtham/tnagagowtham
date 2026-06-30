@@ -59,7 +59,7 @@ I build practical, hardware-integrated, and computer-vision-based systems — fr
 
 ### 📈 GitHub Stats
 
-![tnagagowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnagagowtham&show_icons=true&theme=dark)
+![tnagagowtham's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tnagagowtham&show_icons=true&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=tnagagowtham&theme=dark)
 
 ---
