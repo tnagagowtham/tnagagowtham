@@ -2,9 +2,9 @@
 
 ### Aspiring Data Analyst | Full Stack & AI-ML Developer
 
-📍 Palani, Tamil Nadu, India
-🎓 Final-year M.Sc. Computer Science (Data Analytics) student
-📫 **Email**: tnagagowtham@gmail.com | **LinkedIn**: [linkedin.com/in/tnagagowtham](https://www.linkedin.com/in/tnagagowtham)
+- 📍 Palani, Tamil Nadu, India
+- 🎓 Final-year M.Sc. Computer Science (Data Analytics) student
+- 📫 **Email**: tnagagowtham@gmail.com | **LinkedIn**: [linkedin.com/in/tnagagowtham](https://www.linkedin.com/in/tnagagowtham)
 
 ---
 
