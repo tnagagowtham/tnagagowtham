@@ -21,7 +21,7 @@ I build practical, hardware-integrated, and computer-vision-based systems — fr
 |---|---|
 | [AI-Based Door Security & Attendance System](https://github.com/tnagagowtham/ai-door-security-attendance-system) | Python, YOLO, PyWhatKit, Arduino, Servo Motor |
 | [Real-Time Interview Proctoring & Anti-Cheating System](https://github.com/tnagagowtham/interview-proctoring-anticheating-system) | Python, YOLO, Face Recognition |
-| [IP-Based Camera & Mic Intrusion Detection System](https://github.com/tnagagowtham/ip-camera-mic-intrusion-detection) | Python, HTML, CSS, JS |
+| [IP-Based Camera & Mic Intrusion Detection System](https://github.com/tnagagowtham/camera-mic-access-detection) | Python, HTML, CSS, JS |
 | [Textile Inventory & Billing Management System](https://github.com/tnagagowtham/textile-inventory-billing-system) | HTML, CSS, JavaScript |
 | [Healthcare Lab & Patient Management System](https://github.com/tnagagowtham/healthcare-lab-patient-management-system) | HTML, CSS, JavaScript |
 
