@@ -1,4 +1,4 @@
-# Hi, I'm Naga Gowtham T 👋
+# Hi, I'm Naga Gowtham T 
 
 ### Aspiring Data Analyst | Full Stack & AI-ML Developer
 
@@ -32,8 +32,6 @@ I build practical, hardware-integrated, and computer-vision-based systems — fr
 | 📊 Data Analytics | Power BI, Tableau, SQL, Excel, Data Storytelling |
 | 🤖 AI / Machine Learning | Python, scikit-learn, ML fundamentals |
 | 🌐 Web Development | HTML, CSS, JavaScript, full-stack projects |
-
-📁 [`web-dev-practice`](https://github.com/tnagagowtham/web-dev-practice) · [`data-analyst-journey`](https://github.com/tnagagowtham/data-analyst-journey) · [`ai-ml-learning`](https://github.com/tnagagowtham/ai-ml-learning)
 
 ### 🎓 Certifications & Internships (25+)
 
