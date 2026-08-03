@@ -1,6 +1,6 @@
 # Hi, I'm Naga Gowtham  T
 
-## Aspiring Data Analyst | Full Stack & AI-ML Developer
+### Aspiring Data Analyst | Full Stack & AI-ML Developer
 
 - 📍 Palani, Tamil Nadu, India
 - 🎓 Final-year M.Sc. Computer Science (Data Analytics) student
