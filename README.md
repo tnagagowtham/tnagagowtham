@@ -1,4 +1,4 @@
-# Hi, I'm Naga Gowtham  
+# Hi, I'm Naga 
 
 ### Aspiring Data Analyst | Full Stack & AI-ML Developer
 
